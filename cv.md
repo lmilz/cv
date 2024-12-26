@@ -17,14 +17,12 @@ Background in theoretical physics with expertise in complex systems, advanced mo
 **01/2024 - Now**
 - Led the development of software components in C, C++ and model-based tools forelectrical powertrains vehicles. 
 - Work within an agile product team using the SAFe framework, applying Scrum and Lean methodologies to improve workflows and deliverables. 
-- Supported system integration and testing activities in both virtual and physical environments, ensuring seamless communication between software and hardware components.- Led the development of software components in C, C++ and model-based tools forelectrical powertrains vehicles. - Work within an agile product team using the SAFe framework, applying Scrum and Lean methodologies to improve workflows and deliverables. - Supported system integration and testing activities in both virtual and physical environments, ensuring seamless communication between software and hardware components.
-
+- Supported system integration and testing activities in both virtual and physical environments, ensuring seamless communication between software and hardware components.
 ### Software Engineer - CARIAD SE
 **04/2022 - 12/2023**
 - Led the development of software components in C, C++ and model-based tools forelectrical powertrains vehicles. 
 - Work within an agile product team using the SAFe framework, applying Scrum and Lean methodologies to improve workflows and deliverables. 
-- Supported system integration and testing activities in both virtual and physical environments, ensuring seamless communication between software and hardware components.- Led the development of software components in C, C++ and model-based tools forelectrical powertrains vehicles. - Work within an agile product team using the SAFe framework, applying Scrum and Lean methodologies to improve workflows and deliverables. - Supported system integration and testing activities in both virtual and physical environments, ensuring seamless communication between software and hardware components.
-
+- Supported system integration and testing activities in both virtual and physical environments, ensuring seamless communication between software and hardware components.
 ### Development Engineer - IAV GmbH
 **10/2018 - 03/2022**
 - Development of Functions for Hybrid and Electric Vehicles: Designed and implemented control functions to optimize the performance and efficiency of hybrid and electric vehicle systems, including energy management, power distribution, and fault diagnostics.
