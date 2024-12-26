@@ -1,10 +1,8 @@
 # Resume
 
+## Lars Milz
+[Dachau, Germany][milzlars88@gmail.com][https://www.linkedin.com/in/lars-milz/]
 ![Foto](Bild.jpg)
-
-## Persönliche Daten
-- **Name:** Lars Milz
-- **E-Mail:** milzlars88@gmail.com
 
 ## Professional Summary
 Senior Software Engineer with extensive experience in embedded systems, energy management, 
