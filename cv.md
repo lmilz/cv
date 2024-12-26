@@ -37,7 +37,7 @@ Background in theoretical physics with expertise in complex systems, advanced mo
 Ph.D. in Physics – [University Regensburg]
 [Regensburg, Germany] | [2018]
 
-Master of Science in Physics – [UUniversity Regensburg]
+Master of Science in Physics – [University Regensburg]
 [Regensburg, Germany] | [2014]
 
 Bachelor of Science in Physics – [Heinrich-Heine University]
